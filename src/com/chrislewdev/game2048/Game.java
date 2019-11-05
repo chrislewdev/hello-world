@@ -1,3 +1,5 @@
+package com.chrislewdev.game2048;
+
 import java.util.Random;
 
 public class Game {

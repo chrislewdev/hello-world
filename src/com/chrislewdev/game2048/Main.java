@@ -1,3 +1,5 @@
+package com.chrislewdev.game2048;
+
 import java.util.Scanner;
 
 public class Main {
