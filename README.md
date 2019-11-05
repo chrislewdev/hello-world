@@ -1,3 +1,2 @@
-# hello-world
-Hello World
-aaa
+# 2048 Game
+A hobbyist project
